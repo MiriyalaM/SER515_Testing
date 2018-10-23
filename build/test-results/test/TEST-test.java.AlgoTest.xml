@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.java.AlgoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-22T08:03:58" hostname="ManishaMiriyala" time="0.038">
+<testsuite name="test.java.AlgoTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-10-23T00:55:56" hostname="ManishaMiriyala" time="0.027">
   <properties/>
-  <testcase name="EmptyQuickElement" classname="test.java.AlgoTest" time="0.006"/>
+  <testcase name="EmptyQuickElement" classname="test.java.AlgoTest" time="0.007"/>
   <testcase name="EmptyMergeElement" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="ManishaMiriyala_BubbleSort_Coverage" classname="test.java.AlgoTest" time="0.01"/>
   <testcase name="HeapSort_Coverage" classname="test.java.AlgoTest" time="0.001"/>
   <testcase name="SelectionSort_Coverage" classname="test.java.AlgoTest" time="0.0"/>
-  <testcase name="EmptyInsertElement" classname="test.java.AlgoTest" time="0.005"/>
+  <testcase name="EmptyInsertElement" classname="test.java.AlgoTest" time="0.001"/>
   <testcase name="InsertionSort_Coverage" classname="test.java.AlgoTest" time="0.001"/>
-  <testcase name="MergeSort_Coverage" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="MergeSort_Coverage" classname="test.java.AlgoTest" time="0.001"/>
   <testcase name="QuickSort_Coverage" classname="test.java.AlgoTest" time="0.0"/>
-  <testcase name="EmptySelectElement" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="EmptySelectElement" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="EmptyHeapElement" classname="test.java.AlgoTest" time="0.0"/>
   <testcase name="EmptyBubbleElement_ManishaMiriyala" classname="test.java.AlgoTest" time="0.0"/>
   <system-out><![CDATA[BubbleSort Successful 
